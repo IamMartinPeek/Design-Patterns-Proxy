@@ -1,1 +1,1 @@
-# Design-Patterns-Proxy
+# Design Patterns: Proxy in C#
